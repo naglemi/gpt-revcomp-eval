@@ -24,8 +24,8 @@ See notebook 2, `2_run_eval.ipynb`, for deployment of the eval and results.
 Tuskan, Gerald A., et al. "The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)." Science 313.5793 (2006): 1596-1604.
 
 ## Contact
-Feel free to reach out to me with any questions.
-michael.nagle@oregonstate.edu
+Feel free to reach out to me with any questions.<br>
+michael.nagle@oregonstate.edu<br>
 website: michaelnagle.bio
 
 

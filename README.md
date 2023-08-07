@@ -9,7 +9,7 @@ In this repository, I demonstrate the generation and deployment of an "eval" to 
 See notebook 1, `1_generate_eval.ipynb`, for how we can produce our eval dataset. The current eval includes 100 DNA sequences selected from the _Populus trichocarpa_ genome, ranging in length from 10-511 bases. By tweaking inputs and parameters, you can produce larger eval datasets, and use DNA sequences from other genome fasta files.
 
 ## Running the eval
-See notebook 2, `2_run_eval.ipynb`, to see deployment of the eval and results.
+See notebook 2, `2_run_eval.ipynb`, for deployment of the eval and results.
 
 ## Observations
 - Errors are more frequent for longer sequences

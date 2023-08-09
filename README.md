@@ -18,7 +18,7 @@ See notebook 2, `2_run_eval.ipynb`, for deployment of the eval and results.
 
 ## Next steps
 - It would be fun to do statistical analysis to see how error rates depend on sequence lengths and polynucleotide frequency. However, powerful statistical analysis will require a large dataset (which can be obtained by tweaking parameters in `1_generate_eval.ipynb`), and a lot of API credits. We could also do analysis to measure signficance of differences in performance across GPT models (3.5, 3.5-turbo, 4.0).
-- My hope is that this eval can help to evaluate and improve the abilities of GPT models to work with DNA sequences. Once reliable performance for reverse complements is achieved, GPT or GPT-like models will be closer to being able to handle common tasks involving DNA sequences, including basic tasks such as primer/sgRNA design, and perhaps one day more advanced and data-hungry tasks such as DNA/RNA sequence alignment and statistical -omics.
+- My hope is that this eval can help to evaluate and improve the abilities of GPT models to work with DNA sequences. Once reliable performance for reverse complements is achieved, GPT or GPT-like models will be closer to being able to handle common tasks involving DNA sequences, including basic tasks such as primer/sgRNA design, and perhaps one day more advanced and data-hungry tasks such as molecular cloning, DNA/RNA sequence alignment and statistical -omics.
 
 ## Citation for Genome Data
 Tuskan, Gerald A., et al. "The genome of black cottonwood, Populus trichocarpa (Torr. & Gray)." Science 313.5793 (2006): 1596-1604.

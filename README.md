@@ -14,7 +14,7 @@ See notebook 2, `2_run_eval.ipynb`, for deployment of the eval and results.
 ## Observations
 - Errors are more frequent for longer sequences.
 - Errors commonly appear when dealing with polynucleotide sequences (e.g., extra A added to AAAAA).
-- GPT4 greatly outperforms GPT3.5 and GPT3.5-turbo.
+- GPT-4 greatly outperforms GPT-3.5 and GPT-3.5-turbo.
 
 ## Next steps
 - It would be fun to do statistical analysis to see how error rates depend on sequence lengths and polynucleotide frequency. However, powerful statistical analysis will require a large dataset (which can be obtained by tweaking parameters in `1_generate_eval.ipynb`), and a lot of API credits. We could also do analysis to measure signficance of differences in performance across GPT models (3.5, 3.5-turbo, 4.0).
